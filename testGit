@@ -1,0 +1,6 @@
+这个文件练习git clone
+          git add xx.txt
+          git commit -m "czg:first commit"
+          git pull 
+          
+          git push origin master
